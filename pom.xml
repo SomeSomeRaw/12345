@@ -28,7 +28,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-            <mainClass>fuel.Start</mainClass>
+            <mainClass>nalog.nak.Nalog</mainClass>
           </configuration>
        </plugin>
     </plugins>
