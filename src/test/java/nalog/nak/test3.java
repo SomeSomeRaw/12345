@@ -19,7 +19,7 @@ public class test3 {
 		 * где высчитывают процент налога с дохода*/
 	 double res= tax.calcTax(1000, 13);
 		/*Заданное полученное значение*/
-	 double toch=135.0;
+	 double toch=130.0;
 		/*Сравнивают высчитанное методом calcTax и заранее заданное значение */
 	 assertEquals(Double.toString(res),Double.toString(toch));
 	 }
