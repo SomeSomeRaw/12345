@@ -12,7 +12,8 @@
       <scope>test</scope>
 	</dependency>
   </dependencies>
-  <build>
+  <build> 
+  <defaultGoal>install</defaultGoal>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
